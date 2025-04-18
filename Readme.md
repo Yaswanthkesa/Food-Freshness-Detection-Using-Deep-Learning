@@ -176,9 +176,9 @@ You can refer to the images from the Testing Folder
 ---
 
 ## 👨‍💻 Contributors
-1. [Saragadam Kundana Chinni](https://www.linkedin.com/in/saragadam-kundana-chinni-b17321297/) 
-2. [Thalluru Lakshmi Prasanna](https://www.linkedin.com/in/thalluru-lakshmi-prasanna-322a76330/) 
-3. [Kesa Veera Venkata Yaswanth](https://www.linkedin.com/in/kesa-veera-venkata-yaswanth-6ba447281)
+1. [Kesa Veera Venkata Yaswanth](https://www.linkedin.com/in/kesa-veera-venkata-yaswanth-6ba447281)
+2. [Saragadam Kundana Chinni](https://www.linkedin.com/in/saragadam-kundana-chinni-b17321297/) 
+3. [Thalluru Lakshmi Prasanna](https://www.linkedin.com/in/thalluru-lakshmi-prasanna-322a76330/) 
 
 ---
 
